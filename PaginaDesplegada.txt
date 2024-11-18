@@ -1,1 +1,3 @@
+/* Si no carga bien en chrome probar con otro navegador */
+
 https://tech-explorer-kappa.vercel.app/index.html
